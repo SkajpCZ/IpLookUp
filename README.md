@@ -1,5 +1,5 @@
 # IP Lookup
-### by DeadSkajp#5906
+### by Skajpik#3232
 
 - Gives basic info about ip
 
